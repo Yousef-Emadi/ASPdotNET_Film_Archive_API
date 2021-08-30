@@ -1,6 +1,6 @@
 # ASPdotNET_Film_Archive_API
 Web app and web API MVC with CRUD ops using C# on ASP.NET Core<br/>
-Designed and developed by: Yousef Emadi (API and AJAX), Jerome Olivier (MVC and DB), Anthony Zampino (Filters and Validation)<br/>
+Designed and developed by: Yousef Emadi (API and AJAX), Jerome Olivier (Model, App Controller and DB), Anthony Zampino (Filters and Validation)<br/>
 <br/>
 For setup and running the application: <br/>
 - Extract the files for back-end part (ZOE_IPD25-ver4.zip)
