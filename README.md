@@ -6,6 +6,6 @@ For setup and running the application: <br/>
 - Extract the files for back-end part (ZOE_IPD25-ver4.zip)
 - Run the MVC application on IIS localhost server to test the CRUD operation.
 - Use API controller URL by the browser or any other test tools (e.g. Postman) for CRUD operation  
-- To test the Ajax GUI front-end part, extract other two zip files and set server name and port number inside the myScript.js file 
+- To test the Ajax GUI front-end part (a two-part zip file) then extract other two zip files, set server name and port number (IIS localhost server) in the myScript.js file 
 
 
